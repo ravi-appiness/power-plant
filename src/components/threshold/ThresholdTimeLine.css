@@ -1,0 +1,41 @@
+.threshold-timeline {
+  position: absolute;
+  width: 95%;
+  height: 48px;
+  left: 20px;
+  right: 20px;
+  top: 90px;
+  background: #2a3b46;
+}
+
+.date {
+  position: absolute;
+  width: 170px;
+  height: 20px;
+  top: 12px;
+  left: 12px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.time {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  /* identical to box height, or 154% */
+  color: rgba(255, 255, 255, 0.55);
+  float: right;
+  margin-right: 20px;
+  margin-top: 12px;
+}
+.time span + span:before {
+  padding: 8px;
+  color: rgba(255, 255, 255, 0.55);
+  content: "\00a0";
+}

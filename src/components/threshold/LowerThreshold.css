@@ -1,0 +1,114 @@
+.chart-title5 {
+  position: absolute;
+  width: 95%;
+  height: 60px;
+  left: 20px;
+  top: 375px;
+  background: #081c28;
+  mix-blend-mode: normal;
+}
+
+.chart-title4 {
+  position: absolute;
+  width: 95%;
+  height: 48px;
+  left: 20px;
+  top: 298px;
+  background: rgba(0, 0, 0, 0.0001);
+  mix-blend-mode: normal;
+  opacity: 0.75;
+  border-top: 1px solid #ffb200;
+  box-shadow: inset 0px -1px 0px #ffb200;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.lower-threshold-gradient {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  height: 40px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 178, 0, 0.7) 10.51%,
+    rgba(255, 178, 0, 0.09) 90.47%
+  );
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.55;
+}
+
+.lower {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #c48f0c;
+}
+
+.month {
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.small-verticle-divider {
+  position: absolute;
+  width: 1px;
+  top: 138px;
+  left: 290px;
+  height: 230px;
+  background: #384852;
+}
+
+.overlay1 {
+  position: absolute;
+  width: 652px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  background: #081c28;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  mix-blend-mode: normal;
+  opacity: 0.9;
+}
+
+.overlay2 {
+  position: absolute;
+  width: 136px;
+  height: 60px;
+  left: 954px;
+  top: 0px;
+  background: #081c28;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.slider {
+  margin-top: 55px;
+  margin-left: -3px;
+  color: white;
+}
+
+.horizontal-divider {
+  position: absolute;
+  width: 294px;
+  height: 60px;
+  margin-left: 5px;
+  border-bottom: 1px solid #000;
+}

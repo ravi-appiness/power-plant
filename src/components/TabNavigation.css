@@ -1,0 +1,29 @@
+.header-nav {
+  overflow: hidden;
+  position: absolute;
+  left: 28px;
+  bottom: 0;
+  width: 100%;
+}
+
+.header-nav a {
+  float: left;
+  color: rgba(246, 246, 249, 0.85);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.header-nav a:hover {
+  color: black;
+}
+
+.header-nav a.active {
+  background: rgba(0, 0, 0, 0.0001);
+  box-shadow: inset 0px -2px 0px #ffffff;
+}

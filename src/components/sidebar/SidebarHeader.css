@@ -1,0 +1,60 @@
+.icon {
+  position: absolute;
+  color: #ffffff;
+  width: 24px;
+  height: 24px;
+  left: 20px;
+  top: 20px;
+  mix-blend-mode: normal;
+  opacity: 0.55;
+}
+
+.power-plant {
+  position: absolute;
+  left: 20px;
+  top: 70px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.menu-nav {
+  position: absolute;
+  top: 10.35%;
+  bottom: 85.95%;
+  width: 184px;
+  height: 40px;
+  padding: 8px 29px 12px 20px;
+  background: #2a3b46;
+  box-shadow: inset 0px -1px 0px #081c28;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.new-to-review {
+  position: absolute;
+  width: 135px;
+  height: 20px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.number {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  margin-left: 120px;
+  margin-top: 2px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.85);
+}

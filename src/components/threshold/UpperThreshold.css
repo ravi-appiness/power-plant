@@ -1,0 +1,96 @@
+.chart-parent {
+  background: #122531;
+}
+
+.verticle-divider {
+  position: absolute;
+  width: 1px;
+  top: 138px;
+  left: 290px;
+  height: 230px;
+  background: #384852;
+}
+
+.verticle-divider:before,
+.verticle-divider:after {
+  content: "";
+  width: 5px;
+  height:5px;
+  background:#384852;
+  border-radius: 5px;
+  position: absolute;
+  bottom: -2px;
+  left:-2px;
+}
+
+.chart-title2 {
+  position: absolute;
+  width: 95%;
+  height: 48px;
+  left: 20px;
+  top: 138px;
+  background: repeating-linear-gradient(
+      -70deg,
+      rgba(80, 121, 131, 0.0001) 0.001px,
+      rgba(31, 159, 188, 0.3) 3px
+    ),
+    linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.8) 10.51%,
+      rgba(255, 178, 0, 0.02) 90.47%
+    );
+  mix-blend-mode: normal;
+  opacity: 0.75;
+  box-shadow: inset 0px -1px 0px #2f9cff;
+}
+
+.y-axis-value {
+  position: absolute;
+  top: 18px;
+  left: 5px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.55;
+}
+
+.upper-threshold-image {
+  position: absolute;
+  left: 20px;
+  width: 95%;
+  height: 111px;
+}
+
+.upper {
+  position: absolute;
+  right: 20px;
+  top: 6px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: #16a0bd;
+}
+
+.chart-title3 {
+  position: absolute;
+  width: 95%;
+  height: 124px;
+  left: 20px;
+  top: 185px;
+  background: #122531;
+}
+
+.line {
+  position: absolute;
+  width: 97%;
+  fill: none;
+  margin-left: 2px;
+  border: 1px dashed #2a3b46;
+}

@@ -1,0 +1,20 @@
+ul.right-menu {
+  position: absolute;
+  right: 16px;
+  padding: 16px 16px;
+  margin-left: 800px;
+  list-style: none;
+  display: inline;
+  background-color: #1d303b;
+}
+
+ul.right-menu li {
+  padding-right: 16px;
+  display: inline;
+  font-size: 20px;
+}
+
+ul.right-menu li a {
+  color: rgba(255, 255, 255, 0.55);
+  text-decoration: none;
+}

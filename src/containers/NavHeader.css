@@ -1,0 +1,10 @@
+.nav-header {
+  background: #1d303b;
+  box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.04),
+    inset 1px 0px 0px #081c28;
+  position: absolute;
+  width: 1165px;
+  height: 152px;
+  left: 184px;
+  top: 0px;
+}

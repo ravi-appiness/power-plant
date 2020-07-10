@@ -1,0 +1,24 @@
+.menu {
+  background: #081c28;
+  position: absolute;
+  width: 184px;
+  height: 1082px;
+  left: 0px;
+  top: 0px;
+  bottom: 0;
+}
+
+ul.menu-list {
+  list-style: none;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 135px;
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0;
+}

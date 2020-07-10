@@ -1,0 +1,86 @@
+.sensors {
+  position: absolute;
+  width: 110px;
+  height: 20px;
+  left: 20px;
+  top: 16px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.85;
+}
+
+.component_failure {
+  position: absolute;
+  width: 200px;
+  height: 20px;
+  left: 284px;
+  top: 16px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.85;
+}
+
+.item1 {
+  position: absolute;
+  width: 41px;
+  height: 20px;
+  left: 20px;
+  top: 44px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.55;
+}
+
+.item2 {
+  position: absolute;
+  width: 200px;
+  height: 20px;
+  left: 94px;
+  top: 44px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #ffffff;
+}
+
+.box {
+  position: absolute;
+  width: 1px;
+  height: 18px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.item3 {
+  position: absolute;
+  width: 154px;
+  height: 20px;
+  font-family: "Titillium Web", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.55;
+}
