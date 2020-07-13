@@ -9,9 +9,9 @@ export default function PoListInfoHeader() {
           <tr>
             <th>Priority</th>
             <th>Condition</th>
-            <th>Time To Failure</th>
+            <th>Time To failure</th>
             <th>Probability</th>
-            <th>Time To Repair</th>
+            <th>Time To repair</th>
             <th></th>
             <th></th>
           </tr>
