@@ -11,12 +11,12 @@ export default class PoListDataGrid extends Component {
           <tr>
             <th>3/6</th>
             <th>Rnk</th>
-            <th>Sensor Name</th>
+            <th>Sensor name</th>
             <th></th>
-            <th>Last Reading</th>
-            <th>Upper Limit</th>
-            <th>Last Anomaly</th>
-            <th>Avg Duration</th>
+            <th>Last reading</th>
+            <th>Upper limit</th>
+            <th>Last anomaly</th>
+            <th>Avg duration</th>
           </tr>
         </thead>
         <tbody>
@@ -26,9 +26,9 @@ export default class PoListDataGrid extends Component {
             <td>Location</td>
             <td>Units</td>
             <td>Time</td>
-            <td>Lower Limit</td>
+            <td>Lower limit</td>
             <td>Time</td>
-            <td>No. in 7 Days</td>
+            <td>No. in 7 days</td>
           </tr>
           <tr className="table-row selected">
             <td rowspan="2">
@@ -52,7 +52,7 @@ export default class PoListDataGrid extends Component {
               </span>
             </td>
             <td className="table-line">1</td>
-            <td className="table-line">Static Pressure at pump outlet</td>
+            <td className="table-line">Static pressure at pump outlet</td>
             <td className="table-line"></td>
             <td className="table-line">
               <span className="graph1" style={{ marginTop: "8px" }} />
@@ -112,7 +112,7 @@ export default class PoListDataGrid extends Component {
               </label>
             </td>
             <td className="table-line">2</td>
-            <td className="table-line">Static Pressure at pump outlet</td>
+            <td className="table-line">Static pressure at pump outlet</td>
             <td></td>
             <td className="table-line">
               <span
@@ -175,7 +175,7 @@ export default class PoListDataGrid extends Component {
               </label>
             </td>
             <td className="table-line">3</td>
-            <td className="table-line">Static Pressure at pump outlet</td>
+            <td className="table-line">Static pressure at pump outlet</td>
             <td></td>
             <td className="table-line">
               <span
@@ -238,7 +238,7 @@ export default class PoListDataGrid extends Component {
               </label>
             </td>
             <td className="table-line">4</td>
-            <td className="table-line">Static Pressure at pump outlet</td>
+            <td className="table-line">Static pressure at pump outlet</td>
             <td></td>
             <td className="table-line">
               <span
@@ -301,7 +301,7 @@ export default class PoListDataGrid extends Component {
               </label>
             </td>
             <td className="table-line">5</td>
-            <td className="table-line">Static Pressure at pump outlet</td>
+            <td className="table-line">Static pressure at pump outlet</td>
             <td></td>
             <td className="table-line">
               <span

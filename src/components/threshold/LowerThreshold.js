@@ -51,19 +51,19 @@ export default class LowerThreshold extends Component {
               data={lineGraph1}
               lineStyle={{ stroke: "#47C874" }}
               markStyle={{ stroke: "none", fill: "none", width: "0px" }}
-              curve={"curveCatmullRom.alpha(0.2)"}
+              curve={"curveCatmullRom"}
             />
             <LineMarkSeries
               data={lineGraph2}
               lineStyle={{ stroke: "#026FB5" }}
               markStyle={{ stroke: "none", fill: "none", width: "0px" }}
-              curve={"curveCatmullRom.alpha(0.2)"}
+              curve={"curveCatmullRom"}
             />
             <LineMarkSeries
               data={lineGraph3}
               lineStyle={{ stroke: "#249A95" }}
               markStyle={{ stroke: "none", fill: "none", width: "0px" }}
-              curve={"curveCatmullRom.alpha(0.2)"}
+              curve={"curveCatmullRom"}
             />
           </XYPlot>
           <div
