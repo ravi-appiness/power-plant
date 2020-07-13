@@ -117,21 +117,21 @@ export default class PoListDataGrid extends Component {
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "512px", top: "225px" }}
+                style={{ left: "512px", top: "212px" }}
               />
               107.0054
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "675px", top: "225px" }}
+                style={{ left: "675px", top: "212px" }}
               />
               100.0000
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "805px", top: "225px" }}
+                style={{ left: "805px", top: "212px" }}
               />
               107.0054
             </td>
@@ -145,7 +145,7 @@ export default class PoListDataGrid extends Component {
             <td>
               <span
                 className="graph2"
-                style={{ left: "675px", top: "280px" }}
+                style={{ left: "675px", top: "265px" }}
               ></span>
               69.4460
             </td>
@@ -180,21 +180,21 @@ export default class PoListDataGrid extends Component {
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "512px", top: "333px" }}
+                style={{ left: "512px", top: "320px" }}
               />
               107.0054
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "675px", top: "333px" }}
+                style={{ left: "675px", top: "320px" }}
               />
               100.0000
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "805px", top: "333px" }}
+                style={{ left: "805px", top: "320px" }}
               />
               107.0054
             </td>
@@ -208,7 +208,7 @@ export default class PoListDataGrid extends Component {
             <td>
               <span
                 className="graph2"
-                style={{ left: "675px", top: "390px" }}
+                style={{ left: "675px", top: "375px" }}
               ></span>
               69.4460
             </td>
@@ -243,21 +243,21 @@ export default class PoListDataGrid extends Component {
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "512px", top: "445px" }}
+                style={{ left: "512px", top: "425px" }}
               />
               107.0054
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "675px", top: "445px" }}
+                style={{ left: "675px", top: "425px" }}
               />
               100.0000
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "805px", top: "445px" }}
+                style={{ left: "805px", top: "425px" }}
               />
               107.0054
             </td>
@@ -271,7 +271,7 @@ export default class PoListDataGrid extends Component {
             <td>
               <span
                 className="graph2"
-                style={{ left: "675px", top: "500px" }}
+                style={{ left: "675px", top: "480px" }}
               ></span>
               69.4460
             </td>
@@ -306,21 +306,21 @@ export default class PoListDataGrid extends Component {
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "512px", top: "555px" }}
+                style={{ left: "512px", top: "535px" }}
               />
               107.0054
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "675px", top: "555px" }}
+                style={{ left: "675px", top: "535px" }}
               />
               100.0000
             </td>
             <td className="table-line">
               <span
                 className="graph1"
-                style={{ left: "805px", top: "555px" }}
+                style={{ left: "805px", top: "535px" }}
               />
               107.0054
             </td>
@@ -334,7 +334,7 @@ export default class PoListDataGrid extends Component {
             <td>
               <span
                 className="graph2"
-                style={{ left: "675px", top: "610px" }}
+                style={{ left: "675px", top: "590px" }}
               ></span>
               69.4460
             </td>
