@@ -1,0 +1,95 @@
+.new-row {
+  background: #1d303b;
+  box-shadow: inset 0px -1px 0px #384852;
+}
+.new-row-selected {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 117, 185, 0.12),
+    rgba(0, 117, 185, 0.12)
+  );
+  box-shadow: inset 0px 1px 0px #0075b9;
+}
+
+.new-checkbox {
+  width: 18px;
+  height: 18px;
+  color: rgba(255, 255, 255, 0.35);
+}
+
+.selected-line {
+  width: 2px;
+  height: 16px;
+  background: #47c874;
+  position: absolute;
+  margin-left: -8px;
+}
+
+.row-1 {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  height: 20px;
+  margin-top: 8px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.row-2 {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  height: 20px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  letter-spacing: 0.2px;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.row-2-graph {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  height: 20px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  letter-spacing: 0.2px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.graph1 {
+  position: absolute;
+  width: 10px;
+  height: 16px;
+  margin-left: -16px;
+  background: rgba(0, 0, 0, 0.1);
+  background: repeating-linear-gradient(
+    -60deg,
+    rgba(80, 121, 131, 0.0001) 0.01px,
+    rgba(31, 159, 188, 0.3) 5px
+  );
+  mix-blend-mode: normal;
+  opacity: 0.75;
+  border-top: 1px dashed #2f9cff;
+}
+
+.graph2 {
+  position: absolute;
+  width: 10px;
+  height: 16px;
+  margin-left: -16px;
+  background: rgba(0, 0, 0, 0.1);
+  background: repeating-linear-gradient(
+    -60deg,
+    rgba(255, 178, 0, 0.3) 0.01px,
+    rgba(255, 178, 0, 0.0001) 5px
+  );
+  mix-blend-mode: normal;
+  opacity: 0.55;
+  border-top: 1px solid #ffb200;
+}
