@@ -1,13 +1,11 @@
 import React, { Component } from "react";
 import "./PoListDataGrid.css";
-import { RiCheckboxLine, RiCheckboxBlankLine } from "react-icons/ri";
 import RowItem from "../components/RowItem";
 
 export default class PoListDataGrid extends Component {
   render() {
     return (
       <table className="data-grid-table">
-        {/* <div className="selected-mask" /> */}
         <thead>
           <tr>
             <th>3/6</th>

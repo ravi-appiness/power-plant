@@ -11,6 +11,7 @@ export default class SideBar extends Component {
       selected: 2
     };
   }
+  
   render() {
     return (
       <div className="menu">
