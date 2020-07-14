@@ -1,14 +1,14 @@
 .App {
   position: relative;
   width: 1020px;
-  height: 1640px;
+  height: 1100px;
   background: #081c28;
 }
 
 .content {
   position: absolute;
   width: 1165px;
-  height: 1489px;
+  height: 948px;
   left: 184px;
   top: 152px;
   background: #1d303b;
