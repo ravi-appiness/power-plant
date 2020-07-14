@@ -2,6 +2,7 @@
   background: #1d303b;
   box-shadow: inset 0px -1px 0px #384852;
 }
+
 .new-row-selected {
   background: linear-gradient(
     0deg,
@@ -44,7 +45,6 @@
   line-height: 20px;
   height: 20px;
   margin-top: 4px;
-  margin-bottom: 12px;
   letter-spacing: 0.2px;
   color: rgba(255, 255, 255, 0.55);
 }
@@ -57,7 +57,6 @@
   line-height: 20px;
   height: 20px;
   margin-top: 4px;
-  margin-bottom: 12px;
   letter-spacing: 0.2px;
   color: rgba(255, 255, 255, 0.85);
 }
