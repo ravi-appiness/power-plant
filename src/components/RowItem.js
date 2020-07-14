@@ -45,7 +45,10 @@ export default function RowItem(props) {
         </div>
       </td>
       <td>
-        <div className="row-1">107.0054</div>
+        <div className="row-1">
+          <span className="graph1" />
+          107.0054
+        </div>
         <div className="row-2">'17 Jan 30, 8:44</div>
       </td>
       <td>
